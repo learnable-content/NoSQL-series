@@ -7,7 +7,7 @@ A screencast series by Chris Ward
 - Comparing NoSQL to traditional relational databases
 - Common principles of NoSQL databases
 - Use cases for NoSQL databases
-- The Course sample application
+- The course sample application
 
 ## Scaling, performance and orchestrating large data sets and clusters
 
@@ -38,4 +38,24 @@ A screencast series by Chris Ward
 
 ## Other interesting NoSQL Databases
 
-- 
+- RethinkDB
+- Crate
+- SaaS
+
+## Test App
+The test app used for this series will import data from the Marvel API (**Limits?**) into a table that matches the schema, splitting data into character, comic etc (**Find out others**) and then create a simple xxlang application to query and display results.
+
+This will help highlight:
+
+- Creating Schemas
+- Importing data
+- 'Relational' data
+- Connecting an application client
+- Querying data
+
+### Queries
+
+- 'Import'
+- Select Latest / Most Popular / Whatever
+- xx
+- xx
